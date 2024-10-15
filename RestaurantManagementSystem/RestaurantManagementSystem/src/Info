@@ -1,0 +1,19 @@
+/*RESTAURANT MANAGEMENT SYSTEM
+
+Design a Restaurant Management System to manage menu items, customer orders, and billing.
+
+Classes:
+MenuItem: Contains itemId, itemName, price.
+CustomerOrder: Manages orders with orderId, itemList, quantity, and totalPrice.
+Restaurant: Maintains overall menu and order records.
+
+Features:
+Add, update, or remove menu items.
+Place customer orders and calculate the total bill.
+Display menu and current customer orders.
+Generate detailed bills for customers and update the availability of menu items.
+
+Note: Implement a system to handle multiple customer orders, compute total bills, and display the order
+summary. Use exception handling and file handling and necessary classes wherever required
+@GRS
+*/
