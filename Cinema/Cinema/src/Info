@@ -1,0 +1,21 @@
+/*Cinema Booking System
+
+Create a Cinema Booking System to manage movie screenings, seat bookings, and customer transactions.
+
+Classes:
+Movie: Contains movieId and title.
+Showtime: Manages movie showings with showtimeId, associated Movie, and a list of Seat objects.
+Seat: Represents individual seats with seatId and availability status.
+Booking: Contains bookingId, the associated Showtime, and a list of booked Seat objects.
+
+Features:
+Add new movies and showtimes to the system.
+Check seat availability for a given showtime.
+Book multiple seats for a showtime, with exception handling for unavailable seats.
+Log successful bookings in a specified log file for record-keeping.
+
+
+Note: Implement functionality to ensure proper seat booking, including logging details of each booking and
+Use exception handling and file handling and necessary classes wherever required
+@GRS
+*/
