@@ -1,0 +1,19 @@
+/*SHOP MANAGEMENT SYSTEM
+
+Create a Shop Management System to efficiently manage product inventory, customer details, and sales
+transactions.
+
+Classes:
+Product: Contains product details such as productId, productName, price, stockQuantity.
+Customer: Contains customer details such as customerId, customerName, contactNumber.
+Transaction: Handles sales transactions including product purchase, billing, and updating inventory.
+
+Features:
+Add, update, and remove products.
+Register new customers and maintain customer records.
+Process product sales and generate bills.
+Show product stock levels and sales reports.
+
+Note: Use exception handling and file handling and necessary classes wherever required
+@GRS
+*/

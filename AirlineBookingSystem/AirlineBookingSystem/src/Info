@@ -1,0 +1,20 @@
+/*AIRLINE TICKET BOOKING SYSTEM
+
+Build an Airline Ticket Booking System to manage flight details, customer bookings, and ticket pricing.
+
+Classes:
+Flight: Contains flightId, destination, departureTime, availableSeats, ticketPrice.
+Customer: Contains customerId, customerName, contactNumber.
+Booking: Handles ticket bookings with bookingId, flightId, customerId, and numTickets.
+
+Features:
+Add, update, or cancel flight schedules.
+Book tickets for available flights and ensure seat availability.
+Calculate total ticket cost and generate receipts.
+Display all flights with available seats and booking history.
+
+
+Note: Implement a booking system that checks seat availability and computes total ticket cost based on the
+number of seats booked. Use exception handling and file handling and necessary classes wherever required
+@GRS
+*/

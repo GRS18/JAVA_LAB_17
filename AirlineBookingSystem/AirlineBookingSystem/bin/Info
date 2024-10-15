@@ -1,0 +1,20 @@
+/*Vehicle Rental System
+
+Create a Vehicle Rental System to manage vehicle rentals, customer information, and rental transactions.
+
+Classes:
+Customer: Contains customerId, name.
+Vehicle: Contains vehicleId, type, isAvailable.
+Rental: Manages rentals with rentalId, vehicle, customer, and rentalDuration.
+
+Features:
+View available vehicles and rent them to customers.
+Log rental transactions and returns in a log file.
+Check vehicle availability before renting.
+Update vehicle status upon rental and return.
+Handle exceptions for unavailable vehicles.
+
+Note: Implement rental functionality with checks for vehicle availability and maintain detailed logs of
+rentals. Use exception handling and file handling and necessary classes wherever required
+@GRS
+*/
